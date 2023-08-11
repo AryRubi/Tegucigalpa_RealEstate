@@ -28,7 +28,7 @@ The transformed data is saved as CSV files in the `housing3` folder. The CSV fil
 
 ## Visualization with Power BI
 
-The processed data can be visualized in a Power BI dashboard. You can click the following link to see it: [Link text Here]([https://link-url-here.org](https://app.powerbi.com/view?r=eyJrIjoiZmU2MTM5OTktMjYxOS00MDM3LWI5YTEtNTI2YTU1YjA5ODUzIiwidCI6IjgwZjQ1ODhmLTllY2EtNGRjZC1hMzQwLTgyMDFmYWEzNTAyMCIsImMiOjl9))
+The processed data can be visualized in a Power BI dashboard. You can click the following link to see it: [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU2MTM5OTktMjYxOS00MDM3LWI5YTEtNTI2YTU1YjA5ODUzIiwidCI6IjgwZjQ1ODhmLTllY2EtNGRjZC1hMzQwLTgyMDFmYWEzNTAyMCIsImMiOjl9)
 
 ## Contributing
 
