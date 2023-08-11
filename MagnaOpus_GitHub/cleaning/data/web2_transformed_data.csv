@@ -1,0 +1,122 @@
+usd_price,location,surface_m²,bedrooms,parking,bathrooms
+275000.0,Tres Caminos,366.0,3,2.0,3.5
+404695.0,Lomas del Mayab,518.0,3,6.0,2.5
+976000.0,Tepeyac,620.0,5,2.0,5.5
+260000.0,Res. El Trapiche,218.0,3,2.0,2.5
+270000.0,Palma Real,329.0,3,2.0,4.0
+400000.0,Florencia Sur,468.0,4,2.0,5.0
+160000.0,La Granja,282.0,3,2.0,2.0
+465000.0,Villa Elena,889.0,3,2.0,3.5
+400000.0,Lomas del Guijarro,625.0,5,4.0,4.5
+188000.0,Anillo Periferico,150.0,3,2.0,2.5
+220000.0,Las Hadas,178.0,3,2.0,2.5
+72845.0,Tegucigalpa,168.0,2,0.0,2.0
+210000.0,Miraflores,220.0,3,2.0,3.5
+193000.0,Miraflores,218.0,3,3.0,3.5
+485000.0,Francisco Morazán,364.0,4,4.0,3.5
+385000.0,Loma Verde,289.0,4,3.0,4.0
+550000.0,Loma Verde,510.0,4,3.0,4.5
+400000.0,El Trapiche,340.0,4,0.0,4.5
+440000.0,San Ignacio,346.0,4,3.0,4.5
+280000.0,Viera,400.0,4,4.0,3.5
+264000.0,Santa Lucia,1340.0,7,2.0,7.5
+395000.0,Tres Caminos,480.0,5,3.0,5.5
+450000.0,Altos de Miramontes,720.0,7,10.0,5.0
+400000.0,Altos de la Granja,611.0,3,2.0,3.5
+3000.0,Lomas del Mayab,450.0,4,4.0,4.5
+450000.0,Lomas del Mayab,527.0,3,3.0,2.5
+430000.0,El Trapiche,464.0,4,4.0,4.5
+850000.0,Loma Linda,890.0,5,0.0,5.0
+426618.0,Loarque,191.0,4,3.0,3.5
+450000.0,Palmira,591.0,5,2.0,3.0
+345000.0,El Molino,247.0,2,0.0,2.0
+892500.0,Lomas del Guijarro Sur,988.0,4,4.0,6.5
+532000.0,Lomas del Guijarro,448.0,5,8.0,5.0
+194500.0,Siguatepeque,145.0,2,0.0,3.0
+303767.0,Barrio Guadalupe,246.0,5,2.0,4.0
+4500.0,La Hacienda,700.0,4,4.0,4.0
+600000.0,Lomas del Guijarro,375.0,4,2.0,4.5
+550000.0,El Hatillo,560.0,3,4.0,3.5
+490000.0,Lara,579.0,5,3.0,4.5
+253200.0,Valle de Angeles,250.0,4,8.0,4.0
+7000.0,El Hatillo,400.0,4,8.0,5.5
+635000.0,Lomas del Mayab,456.0,4,0.0,4.0
+930000.0,San Ignacio,550.0,4,0.0,4.0
+163000.0,Valle de Angeles,92.0,2,0.0,2.0
+1000000.0,Valle de Angeles,540.0,3,2.0,3.5
+190000.0,Godoy,352.0,4,2.0,4.5
+350000.0,Los Angeles,340.0,4,0.0,4.0
+150000.0,Distrito Central,137.0,3,1.0,2.5
+162010.0,Alameda,220.0,3,6.0,2.5
+210000.0,Tegucigalpa,612.0,5,2.0,4.0
+283500.0,Tegucigalpa,345.0,3,8.0,3.5
+158000.0,Residencial Plaza,120.0,6,2.0,5.5
+689000.0,Tepeyac,390.0,5,4.0,4.5
+365000.0,Tegucigalpa,361.0,3,0.0,2.5
+115000.0,Talanga,363.0,4,0.0,5.0
+325000.0,Miramontes,310.0,4,2.0,2.5
+720000.0,Lomas del Guijarro,631.0,4,4.0,4.5
+2500.0,Valle de Angeles,400.0,3,3.0,4.5
+480000.0,Altos de Miramontes,571.0,4,4.0,5.0
+275000.0,Las Uvas,400.0,4,2.0,4.5
+1200000.0,La Hacienda,600.0,4,4.0,5.5
+185000.0,Las Hadas,130.0,3,1.0,3.5
+235000.0,Las Hadas,190.0,4,2.0,4.5
+410000.0,15 de Septiembre,359.0,4,3.0,2.5
+201000.0,Santa Lucia,997.0,3,2.0,3.5
+700000.0,El Hatillo,650.0,3,4.0,4.5
+3300.0,Tepeyac,670.0,5,5.0,4.5
+35000.0,El Jícaro,140.0,3,20.0,2.0
+410000.0,San Ignacio,392.0,3,2.0,3.5
+420000.0,Lomas del Guijarro,255.0,3,2.0,3.5
+300000.0,15 de Septiembre,400.0,5,4.0,3.5
+2300.0,Distrito Central,600.0,3,6.0,5.5
+700000.0,Miramontes,936.0,5,2.0,3.5
+5000.0,El Hatillo,1900.0,4,10.0,6.5
+200000.0,Taulabé,290.0,3,4.0,4.5
+450000.0,El Hatillo,590.0,6,6.0,4.5
+250000.0,La Cumbre,234.0,3,2.0,3.5
+240000.0,Santa Lucia,298.0,3,6.0,3.5
+3500.0,Tegucigalpa,450.0,3,3.0,3.5
+330000.0,San Ignacio,250.0,3,2.0,3.5
+285000.0,San Carlos,280.0,3,2.0,3.5
+980.0,San Ignacio,170.0,3,2.0,3.5
+1250.0,El Molino,510.0,4,3.0,4.5
+295000.0,Lomas del Guijarro,283.0,3,2.0,3.5
+375000.0,San Ignacio,375.0,4,3.0,3.5
+1500000.0,San Ignacio,810.0,4,4.0,4.5
+450000.0,El Hatillo,266.0,4,6.0,4.5
+230000.0,La Cumbre,230.0,3,2.0,2.5
+2000.0,Valle de Angeles,410.0,3,10.0,3.0
+365000.0,Lomas del Guijarro,450.0,3,0.0,3.5
+420000.0,Lomas del Mayab,311.0,3,4.0,3.5
+550000.0,El Hatillo,564.0,4,15.0,4.5
+180000.0,El Country,352.0,4,2.0,4.5
+325000.0,El Chimbo,1178.0,3,4.0,2.5
+972055.0,Tegucigalpa,1235.0,4,15.0,4.5
+550000.0,Florencia Sur,400.0,4,2.0,4.5
+1155000.0,San Ignacio,500.0,4,7.0,4.5
+950.0,Altos de Miraflores,290.0,3,2.0,3.5
+495000.0,Florencia Norte,450.0,4,4.0,4.5
+550000.0,El Hatillo,648.0,4,10.0,4.5
+520000.0,Palmeras de San Ignacio,391.0,3,0.0,3.5
+600000.0,El Hatillo,527.0,3,4.0,2.5
+480000.0,Loma Linda,600.0,3,0.0,3.5
+360000.0,Loma Linda Norte,470.0,3,3.0,3.5
+558500.0,El Hatillo,602.0,3,10.0,4.5
+2000.0,Castaños Sur,450.0,15,10.0,4.0
+875000.0,Danlí,500.0,3,0.0,3.5
+342779.0,Valle de Angeles,220.0,3,5.0,2.5
+450000.0,El Hatillo,475.0,3,5.0,3.5
+750000.0,Las Lomas del Guijarro,410.0,3,2.0,3.5
+650000.0,Lomas del Guijarro,875.0,4,4.0,4.5
+570000.0,Las Casitas,400.0,3,6.0,3.5
+900000.0,Las Lomas del Guijarro,400.0,4,2.0,3.5
+2300000.0,Lomas del Guijarro,400.0,3,4.0,3.5
+850000.0,El Trapiche,600.0,5,6.0,6.0
+450000.0,Lomas del Guijarro Sur,290.0,3,3.0,3.5
+450000.0,El Chimbo,600.0,4,0.0,3.5
+850000.0,Lomas de Miraflores Sur,400.0,4,0.0,4.5
+450000.0,Roatán,221.0,4,0.0,2.5
+375000.0,Lomas del Guijarro,440.0,3,2.0,2.5
+345000.0,El Hatillo,500.0,4,5.0,4.5

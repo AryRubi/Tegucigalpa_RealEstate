@@ -1,0 +1,709 @@
+location,usd_price,bedrooms,bathrooms,surface_m²,parking
+Colonia Miramontes,323631.0,3,3.0,325.0,1.0
+Colonia Tepeyac,976000.0,4,5.0,620.0,2.0
+Castaños Sur,243000.0,4,3.0,665.0,2.0
+Colonia San Ignacio,440000.0,4,3.0,400.0,0.0
+Colonia 15 de Septiembre,263188.0,5,3.0,336.0,2.0
+Residencial Lomas del Dorado,123480.0,3,2.0,151.0,1.0
+Colonia Loma Linda Norte,300000.0,7,6.0,289.0,5.0
+Lomas de Toncontin,145634.0,3,2.0,250.0,1.0
+Residencial Palma Real,262950.0,3,4.0,240.0,2.0
+Tegucigalpa,88660.0,4,2.0,175.0,2.0
+El Hatillo,275154.0,3,2.0,290.0,5.0
+Villa Elena,350000.0,3,2.0,350.0,4.0
+Villa Elena,757000.0,5,6.0,2640.0,5.0
+Tegucigalpa,552817.0,4,4.0,564.0,5.0
+Tegucigalpa,215139.0,3,2.0,159.0,2.0
+Residencial Monte Real,256223.0,4,3.0,238.0,4.0
+El Sauce,295000.0,3,5.0,250.0,2.0
+Residencial Las Uvas,240079.0,4,4.0,374.0,2.0
+Tegucigalpa,90456.0,3,2.0,102.0,2.0
+Colonia San Ignacio,1269450.0,6,6.0,516.0,5.0
+Colonia Tres Caminos,400000.0,5,5.0,430.0,2.0
+Barrio La Bolsa,55000.0,3,2.0,205.0,0.0
+Colonia Universidad Norte,202452.0,3,2.0,374.0,2.0
+Colonia Lomas del Mayab,351793.0,3,2.0,188.0,4.0
+Colonia Tepeyac,812000.0,4,4.0,600.0,4.0
+Colonia San Carlos,499000.0,4,3.0,483.0,3.0
+Colonia Palmira,251281.0,4,3.0,335.0,3.0
+Residencial Las Hadas,159793.0,3,2.0,155.0,0.0
+Residencial Portal Canarias,132891.0,3,2.0,183.0,2.0
+Residencial Monte Real,155747.0,3,2.0,120.0,2.0
+Residencial El Sauce,900000.0,5,5.0,750.0,4.0
+Residencial Las Hadas,600000.0,4,5.0,665.0,5.0
+Colonia Los Angeles,695000.0,3,4.0,620.0,2.0
+Residencial Roble Oeste,210000.0,3,2.0,135.0,2.0
+Colonia América,1000.0,5,5.0,915.0,0.0
+Residencial Las Cascadas,270000.0,3,3.0,349.0,3.0
+Residencial Las Cascadas,270000.0,4,4.0,349.0,3.0
+Residencial Las Cascadas,205025.0,4,3.0,174.0,2.0
+Residencial Las Cascadas,1000000.0,7,6.0,1200.0,5.0
+El Hatillo,466432.0,4,3.0,580.0,0.0
+El Hatillo,480000.0,4,3.0,410.0,4.0
+Tegucigalpa,297286.0,3,2.0,230.0,2.0
+El Hatillo,1200000.0,5,5.0,800.0,0.0
+El Hatillo,750000.0,4,3.0,545.0,4.0
+Colonia Miraflores Sur,260000.0,3,3.0,247.0,2.0
+Boulevard Morazán,339983.0,3,4.0,240.0,0.0
+Colonia Lomas del Mayab,514919.0,5,4.0,410.0,0.0
+Colonia 15 de Septiembre,360588.0,3,3.0,287.0,0.0
+Boulevard Morazán,319378.0,4,2.0,290.0,0.0
+Colonia Lomas del Mayab,472885.0,3,3.0,300.0,0.0
+Colonia Ciudad Nueva,337922.0,2,3.0,644.0,0.0
+Colonia Lomas del Guijarro,927225.0,4,4.0,739.0,0.0
+Colonia Lomas del Guijarro,514919.0,3,3.0,400.0,0.0
+Colonia Alameda,281258.0,3,3.0,390.0,0.0
+Colonia El Hatillo,618150.0,3,4.0,709.0,0.0
+Colonia El Hatillo,592394.0,3,3.0,527.0,0.0
+Colonia Lomas del Guijarro,360588.0,3,4.0,400.0,0.0
+Colonia Lomas del Mayab,649058.0,3,4.0,616.0,0.0
+Colonia Lomas del Guijarro,376041.0,3,3.0,400.0,0.0
+Colonia El Hatillo,669663.0,4,4.0,568.0,0.0
+Colonia Lomas del Mayab,294652.0,4,3.0,385.0,0.0
+Colonia Las Hadas,338952.0,3,3.0,296.0,0.0
+Colonia Lomas del Mayab,291458.0,2,2.0,144.0,0.0
+Colonia El Hatillo,468764.0,4,3.0,580.0,0.0
+Colonia El Hatillo,618150.0,3,3.0,710.0,0.0
+Colonia Lomas del Mayab,628453.0,3,2.0,350.0,0.0
+Colonia Las Hadas,226655.0,3,2.0,275.0,0.0
+Residencial San Ignacio,546033.0,3,3.0,365.0,0.0
+Colonia Lomas del Guijarro  Sur,376041.0,3,3.0,400.0,0.0
+Colonia Lomas del Guijarro  Sur,1178893.0,4,4.0,1122.0,0.0
+Colonia Lomas del Mayab,345134.0,4,4.0,415.0,0.0
+Colonia Lomas del Mayab,628453.0,3,2.0,850.0,0.0
+Colonia Rubén Darío,473915.0,4,4.0,490.0,0.0
+Colonia Lomas del Guijarro  Sur,471855.0,4,4.0,311.0,0.0
+Colonia Lomas del Guijarro,566638.0,4,4.0,400.0,0.0
+Colonia Lomas del Mayab,489369.0,3,3.0,455.0,0.0
+Colonia Lomas del Mayab,345134.0,4,4.0,415.0,0.0
+Colonia Lomas del Mayab,473914.0,3,2.0,350.0,0.0
+Residencial Las Hadas,618150.0,3,3.0,480.0,0.0
+Colonia El Hatillo,360588.0,3,3.0,1.0,0.0
+Colonia Cerro Grande,359557.0,3,3.0,850.0,0.0
+Colonia Palmira,976677.0,4,4.0,2114.0,0.0
+Colonia Lomas del Mayab,294652.0,4,4.0,385.0,0.0
+Residencial San Ignacio,714568.0,4,3.0,700.0,0.0
+Colonia Lomas del Mayab,356818.0,4,4.0,397.0,0.0
+Colonia Florencia Sur,306654.0,3,4.0,225.0,0.0
+La Reforma,315257.0,4,2.0,735.0,0.0
+Colonia Lomas del Mayab,473914.0,3,3.0,350.0,0.0
+Barrio Salida a Valle De Angeles,200899.0,4,4.0,287.0,0.0
+Colonia Lomas del Guijarro,566638.0,4,4.0,400.0,0.0
+Residencial San Ignacio,1184788.0,4,4.0,780.0,0.0
+Residencial La Hacienda,950000.0,4,4.0,700.0,4.0
+Colonia Lomas del Guijarro,199899.0,3,2.0,156.0,2.0
+Colonia Rubén Darío,288000.0,3,3.0,298.0,2.0
+Colonia Loma Linda Norte,1025124.0,4,4.0,500.0,2.0
+Colonia Humuya,420000.0,5,5.0,893.0,4.0
+Colonia Florencia Norte,512562.0,4,4.0,627.0,2.0
+Colonia Florencia Norte,595000.0,3,3.0,450.0,4.0
+Colonia Florencia Oeste,583000.0,6,6.0,700.0,0.0
+Colonia Lomas del Mayab,645828.0,4,3.0,616.0,2.0
+Colonia Lomas del Mayab,335000.0,4,4.0,415.0,3.0
+Colonia Lomas del Mayab,471557.0,3,3.0,350.0,2.0
+Colonia Lomas del Mayab,460000.0,3,2.0,350.0,2.0
+Colonia Lomas del Mayab,630000.0,4,3.0,616.0,4.0
+Lomas del Guijarro Sur,390000.0,3,3.0,400.0,2.0
+Lomas del Guijarro Sur,376921.0,4,4.0,325.0,0.0
+Colonia Lomas del Guijarro,750000.0,3,3.0,490.0,4.0
+Colonia Lomas del Guijarro,395000.0,5,4.0,625.0,4.0
+Colonia Palmira,385000.0,5,5.0,495.0,4.0
+Colonia Las Palomas,1004622.0,6,6.0,380.0,4.0
+Viera,285000.0,4,4.0,387.0,3.0
+Tegucigalpa,480000.0,4,3.0,370.0,3.0
+Colonia Los Angeles,600000.0,4,4.0,832.0,2.0
+Residencial Plaza,101500.0,3,3.0,86.0,2.0
+Colonia Las Minitas,325000.0,3,2.0,222.0,5.0
+Colonia La Pradera,81000.0,4,3.0,128.0,1.0
+Colonia Alameda,325000.0,3,2.0,810.0,3.0
+Barrio Guadalupe,101500.0,5,3.0,146.0,0.0
+Residencial Las Uvas,98904.0,3,3.0,104.0,0.0
+Tegucigalpa,222318.0,3,2.0,250.0,2.0
+Tegucigalpa,48545.0,3,2.0,58.0,0.0
+Residencial El Sauce,315784.0,6,5.0,327.0,2.0
+Residencial Altos de Miramontes,480000.0,3,3.0,527.0,4.0
+Colonia Centro América Oeste,39974.0,2,1.0,89.0,0.0
+La Joya,408095.0,4,2.0,430.0,0.0
+Colonia La Reforma,281165.0,6,4.0,1190.0,3.0
+Colonia El Recreo,333893.0,4,4.0,1050.0,0.0
+Tegucigalpa,225000.0,3,3.0,233.0,2.0
+Residencial Altos de Venecia,120000.0,3,2.0,136.0,2.0
+Residencial Pinares del Uyuca,384483.0,4,5.0,904.0,0.0
+Colonia Los Angeles,600000.0,5,5.0,620.0,2.0
+Paseo El Manchen,110000.0,5,4.0,192.0,0.0
+Victor F. Ardon,97912.0,4,3.0,95.0,1.0
+Colonia Altos de Miramonte,342550.0,4,4.0,430.0,4.0
+Residencial Las Uvas,203351.0,4,3.0,175.0,3.0
+2PXW+P6F,120000.0,2,3.0,145.0,2.0
+Residencial Roble Oeste,161856.0,3,2.0,144.0,2.0
+Colonia Los Profesionales,439239.0,6,6.0,663.0,0.0
+Tegucigalpa,160000.0,3,2.0,418.0,2.0
+Tegucigalpa,125000.0,3,3.0,120.0,2.0
+Residencial Las Uvas,420000.0,5,6.0,518.0,0.0
+Residencial La Cumbre,260000.0,4,4.0,295.0,0.0
+Altos de Las Casitas,100000.0,3,3.0,105.0,2.0
+Colonia Montecarlo,261950.0,7,6.0,452.0,0.0
+Vista Hermosa,60708.0,3,3.0,90.0,0.0
+Tiloarque,93833.0,4,3.0,171.0,2.0
+Tiloarque,64755.0,2,1.0,90.0,1.0
+Colonia Florencia Sur,290000.0,4,3.0,385.0,2.0
+Colonia Humuya,291275.0,7,6.0,664.0,5.0
+Colonia Humuya,149508.0,3,3.0,483.0,2.0
+Colonia La Primavera,265179.0,5,4.0,330.0,3.0
+Colonia Florencia Oeste,275000.0,3,2.0,270.0,2.0
+Villas Las Palmeras,93753.0,3,3.0,104.0,0.0
+Anillo Periférico,181897.0,3,2.0,212.0,2.0
+Colonia Tepeyac,288008.0,3,3.0,559.0,2.0
+Colonia 21 de Octubre,70057.0,5,3.0,182.0,0.0
+Colonia Honduras,37089.0,2,2.0,314.0,0.0
+Residencial Villas Palmeras,96844.0,3,3.0,105.0,0.0
+Tegucigalpa,226655.0,3,4.0,273.0,0.0
+Tegucigalpa,187506.0,3,2.0,205.0,0.0
+Colonia Castaño Sur,360588.0,3,4.0,437.0,0.0
+Colonia Centro America Este,160719.0,3,3.0,109.0,0.0
+Barrio La Granja,216353.0,3,2.0,758.0,0.0
+Tegucigalpa,144235.0,3,3.0,100.0,0.0
+Residencial Altos de Miraflorws,185445.0,4,4.0,245.0,0.0
+Residencial Santa Cruz,247.0,4,4.0,396.0,2.0
+Colonia 15 de Septiembre,247260.0,4,4.0,337.0,0.0
+Portal del Bosque,194717.0,3,2.0,179.0,0.0
+Residencial Altos del Trapiche,113328.0,3,2.0,110.0,0.0
+Colonia Miraflores,115388.0,3,2.0,130.0,0.0
+Residencial El Trapiche,267865.0,4,4.0,365.0,0.0
+Colonia América,164840.0,3,2.0,210.0,0.0
+Urbanización Loma Verde,360588.0,3,2.0,443.0,0.0
+Distrito Central,257563.0,4,4.0,410.0,0.0
+Colonia Los Robles,166901.0,4,3.0,231.0,0.0
+Residencial El Trapiche,218825.0,3,3.0,240.0,0.0
+Colonia El Hato o San Ignacio,381193.0,3,3.0,800.0,0.0
+Colonia Zona Miraflores Sur,184415.0,3,4.0,250.0,0.0
+Portal del Bosque,133933.0,3,2.0,129.0,0.0
+Residencial Villa Santa Cristina,98904.0,3,3.0,140.0,0.0
+Residencial El Trapiche,276107.0,4,4.0,330.0,0.0
+Colonia Lomas del Guijarro,386344.0,3,3.0,440.0,0.0
+Colonia Miramontes,267865.0,4,3.0,308.0,0.0
+Los Laureles,44301.0,2,1.0,56.0,0.0
+El Hato,156598.0,3,2.0,142.0,0.0
+Colonia Hato de Enmedio Sector 1,53573.0,3,2.0,140.0,0.0
+Colonia Tiloarque,78299.0,4,3.0,92.0,0.0
+Residencial Las Uvas,106116.0,3,2.0,123.0,0.0
+Distrito Central,149386.0,4,4.0,160.0,0.0
+Colonia Toncontin,103025.0,3,2.0,216.0,0.0
+Colonia Tres Caminos,618150.0,4,3.0,280.0,0.0
+Colonia Ciudad Nueva,360588.0,4,4.0,400.0,0.0
+Residencial Villas del Real,115903.0,5,4.0,133.0,0.0
+Colonia San Carlos,278168.0,3,4.0,727.0,0.0
+Colonia Las Minitas,164840.0,3,2.0,215.0,0.0
+Urbanización Loma Verde,125691.0,3,2.0,220.0,0.0
+Tegucigalpa,185445.0,3,3.0,173.0,0.0
+Barrio Pueblo Nuevo,180294.0,3,3.0,220.0,0.0
+Residencial Las Uvas,154538.0,3,3.0,202.0,0.0
+Colonia Villa los Laureles,86541.0,3,3.0,118.0,0.0
+Colonia Loma Linda Sur,494520.0,3,3.0,600.0,0.0
+Cerro Grande,67997.0,5,3.0,164.0,0.0
+Residencial Santa Cristina,55634.0,3,2.0,78.0,0.0
+Residencial Altos del Trapiche,159689.0,4,3.0,225.0,0.0
+Residencial El Trapiche,288470.0,3,3.0,235.0,0.0
+Portal del Bosque,175143.0,3,2.0,165.0,0.0
+Colonia El Manantial,53573.0,2,1.0,150.0,0.0
+Residencial San Ignacio,360588.0,3,3.0,250.0,0.0
+Residencial Las Uvas,152477.0,3,2.0,241.0,0.0
+Colonia América,96844.0,3,2.0,93.0,0.0
+Residencial Roble Oeste,113328.0,3,4.0,145.0,0.0
+Colonia Altos de Toncontin,82420.0,3,3.0,160.0,0.0
+Colonia Los Robles,159689.0,3,3.0,245.0,0.0
+Colonia Lomas del Guijarro,180294.0,2,2.0,105.0,0.0
+Colonia Centroamérica 1 y 2,95401.0,4,3.0,141.0,0.0
+Villas de Real,94783.0,4,3.0,135.0,0.0
+Tegucigalpa,293621.0,3,3.0,232.0,0.0
+Residencial El Sauce,211201.0,4,4.0,224.0,0.0
+Residencial El Sauce,154538.0,4,4.0,150.0,0.0
+La Humuya,257563.0,5,3.0,250.0,0.0
+Colonia 15 de Septiembre,185445.0,3,4.0,352.0,0.0
+Colonia Los Angeles,252411.0,3,3.0,279.0,0.0
+San Ignacio,226655.0,3,3.0,240.0,0.0
+"Residencial Centroamérica, 4ta Etapa",159689.0,3,3.0,180.0,0.0
+Tegucigalpa,90662.0,3,2.0,210.0,0.0
+Residencial Las Uvas,123630.0,3,2.0,205.0,0.0
+Colonia Miraflores,167931.0,3,2.0,160.0,0.0
+Residencial Las Uvas,610114.0,3,3.0,350.0,0.0
+Residencial Las Uvas,164840.0,3,2.0,258.0,0.0
+Colonia Venecia,123630.0,3,2.0,176.0,0.0
+Colonia Venecia,103025.0,3,3.0,133.0,0.0
+Residencial Honduras,45331.0,3,2.0,89.0,0.0
+Residencial El Trapiche,412100.0,5,4.0,432.0,0.0
+Colonia El Hatillo,473915.0,4,4.0,330.0,0.0
+Colonia Miraflores Sur,184518.0,3,3.0,200.0,0.0
+Residencial Altos del Trapiche,288470.0,4,4.0,525.0,0.0
+Residencial Altos de Monte Real,142175.0,4,3.0,310.0,0.0
+Colonia El Manantial,74178.0,3,2.0,100.0,0.0
+Colonia El Hatillo,156598.0,2,2.0,1062.0,0.0
+Colonia Centroamerica Oeste,39150.0,4,3.0,120.0,0.0
+Residencial Las Uvas,92383.0,3,3.0,140.0,0.0
+Residencial San Ignacio,334831.0,3,2.0,307.0,0.0
+Tegucigalpa,86541.0,3,3.0,128.0,0.0
+Residencial Las Hadas,669663.0,4,4.0,450.0,0.0
+Colonia Lomas del Guijarro,221504.0,3,3.0,280.0,0.0
+Tegucigalpa,247260.0,3,3.0,389.0,0.0
+Colonia Miraflores,143205.0,5,3.0,160.0,0.0
+Residencial San Ignacio,463613.0,4,4.0,482.0,0.0
+Colonia Venecia,94783.0,3,3.0,120.0,0.0
+Tegucigalpa,131872.0,4,2.0,97.0,0.0
+Cerro Grande,247260.0,4,3.0,153.0,0.0
+Residencial Concepcion,80360.0,3,3.0,122.0,0.0
+El Sauce,190596.0,3,3.0,170.0,0.0
+Residencial El Trapiche,309075.0,4,4.0,278.0,0.0
+Colonia El Hato o San Ignacio,381193.0,3,3.0,374.0,0.0
+Colonia Lomas del Guijarro,309075.0,3,3.0,300.0,0.0
+Lomas del Hatillo,489369.0,3,3.0,500.0,0.0
+Monte Fresco,139084.0,3,3.0,270.0,0.0
+Residencial San Ignacio,535730.0,3,3.0,391.0,0.0
+Distrito Central,618150.0,3,3.0,459.0,0.0
+Colonia Lomas del Guijarro,515730.0,4,4.0,707.0,0.0
+El Trapiche,216353.0,3,3.0,190.0,0.0
+Colonia Los Angeles,160719.0,3,3.0,286.0,0.0
+Residencial San Sebastian,98904.0,3,3.0,140.0,0.0
+La Calera,412100.0,5,4.0,376.0,0.0
+Colonia Centroamérica Etapa 1 y 2,69233.0,5,3.0,180.0,0.0
+Colonia Villas del Río,70057.0,3,1.0,170.0,0.0
+Colonia Los Robles,175143.0,3,3.0,220.0,0.0
+Residencial Santa Cristina,90662.0,4,3.0,140.0,0.0
+Los Robles,195748.0,4,4.0,288.0,0.0
+Tegucigalpa,242109.0,3,3.0,309.0,0.0
+Los Robles,190596.0,4,3.0,212.0,0.0
+Distrito Central,324529.0,4,4.0,350.0,0.0
+Residencial La Cumbre,309075.0,3,4.0,411.0,0.0
+Residencial Las Uvas,226655.0,3,2.0,265.0,0.0
+Colonia El Sauce,159.0,3,2.0,190.0,2.0
+Colonia Loma Linda Sur,175143.0,4,3.0,160.0,0.0
+Colonia Florencia Sur,216.0,3,3.0,140.0,2.0
+Residencial Honduras,65318.0,2,3.0,151.0,0.0
+Residencial Las Hadas,247260.0,3,3.0,245.0,0.0
+Barrio Pueblo Nuevo,185445.0,3,3.0,147.0,0.0
+Colonia Miramontes,123630.0,4,3.0,200.0,0.0
+Colonia Tepeyac,370890.0,3,3.0,383.0,0.0
+Residencial El Trapiche,276107.0,4,4.0,330.0,0.0
+Residencial Prados Universitarios,49.0,2,1.0,75.0,0.0
+Portal del Bosque,168961.0,3,2.0,158.0,0.0
+Residencial Pinares del Valle,298773.0,3,4.0,400.0,0.0
+Cerro Grande,144235.0,4,3.0,153.0,0.0
+Tegucigalpa,131872.0,3,2.0,205.0,0.0
+Colonia Alemania 1,39150.0,2,1.0,100.0,0.0
+Colonia 15 de Septiembre,185445.0,3,2.0,260.0,0.0
+Residencial Las Uvas,216353.0,3,4.0,182.0,0.0
+Colonia Las Lomas del Guijarro Sur,437.0,3,3.0,340.0,2.0
+El Sauce,185445.0,3,3.0,187.0,0.0
+Barrio Pueblo Nuevo,156392.0,3,3.0,200.0,0.0
+Residencial Viera,154538.0,3,2.0,180.0,0.0
+Colonia América,103025.0,3,2.0,88.0,0.0
+Residencial Villas del Campo km 8 carretera a Danlí,115388.0,3,2.0,166.0,0.0
+Residencial Las Uvas,123630.0,3,4.0,197.0,0.0
+Residencial Las Uvas,115388.0,3,2.0,123.0,0.0
+Barrio La Granja,195748.0,3,2.0,256.0,0.0
+Residencial Las Uvas,231806.0,4,4.0,220.0,0.0
+Los Laureles,80360.0,3,3.0,118.0,0.0
+Colonia Cerro Grande,171022.0,3,4.0,453.0,0.0
+Colonia Villa los Laureles,118479.0,4,4.0,140.0,0.0
+Colonia Miraflores,181566.0,3,3.0,200.0,0.0
+Colonia Tiloarque,90662.0,4,3.0,188.0,0.0
+Colonia San Ignacio,442.0,4,5.0,483.0,5.0
+Residencial El Portillo,81596.0,3,3.0,100.0,0.0
+Tegucigalpa,78.0,3,2.0,92.0,2.0
+Tegucigalpa,360.0,3,3.0,250.0,2.0
+Barrio La Granja,206050.0,3,3.0,359.0,0.0
+Colonia Tres Caminos,222534.0,4,4.0,275.0,0.0
+Colonia Humuya,190596.0,4,4.0,200.0,0.0
+Tegucigalpa,550000.0,3,4.0,520.0,0.0
+Colonia Calpules,35029.0,3,2.0,70.0,0.0
+Colonia El Sitio,53.0,3,2.0,148.0,2.0
+Colonia San Angel,53532.0,4,1.0,1.0,0.0
+Residencial Agua Dulce,365000.0,4,4.0,426.0,0.0
+Residencial Agua Dulce,111267.0,3,3.0,135.0,0.0
+Colonia Tres Caminos,604500.0,3,3.0,404.0,5.0
+Residencial Las Hadas,260000.0,3,3.0,414.0,2.0
+Portal del Bosque,205000.0,4,4.0,160.0,2.0
+Tegucigalpa,180000.0,3,3.0,170.0,0.0
+Colonia Los Angeles,264357.0,6,6.0,685.0,5.0
+Residencial Las Hadas,151700.0,3,3.0,187.0,5.0
+Portal del Bosque,175000.0,3,2.0,136.0,0.0
+Residencial El Trapiche,290000.0,4,3.0,340.0,0.0
+Colonia San Ignacio,420000.0,4,3.0,354.0,3.0
+Colonia Loma Linda Norte,260000.0,4,3.0,260.0,4.0
+Colonia Loma Linda Norte,260000.0,4,3.0,260.0,4.0
+Residencial Las Uvas,235887.0,3,4.0,370.0,3.0
+Residencial El Sauce,226000.0,7,6.0,450.0,3.0
+Tegucigalpa,33553.0,2,1.0,52.0,1.0
+Residencial Roble Oeste,173000.0,3,2.0,135.0,2.0
+Residencial Roble Oeste,148356.0,4,4.0,160.0,3.0
+Residencial Roble Oeste,113328.0,3,4.0,145.0,0.0
+Residencial Altos del Trapiche,94783.0,3,2.0,80.0,1.0
+Residencial Santa Cruz,147889.0,4,3.0,148.0,1.0
+Residencial Santa Cruz,142585.0,3,2.0,142.0,2.0
+3Q55+Q7F,200.0,3,3.0,280.0,2.0
+Tegucigalpa,39150.0,4,2.0,139.0,1.0
+Residencial Altos del Trapiche,94783.0,3,2.0,85.0,1.0
+Residencial Altos del Trapiche,126721.0,3,2.0,180.0,0.0
+Residencial Altos del Trapiche,82008.0,3,2.0,85.0,0.0
+Hacienda Real,42446.0,3,2.0,74.0,2.0
+Residencial Honduras,66966.0,3,3.0,72.0,0.0
+Colonia Jardines de Toncontín,45331.0,2,1.0,300.0,0.0
+Colonia Cerro Grande,74178.0,4,2.0,284.0,0.0
+Villa Real,94783.0,3,3.0,120.0,0.0
+Colonia Los Angeles,37089.0,3,1.0,85.0,0.0
+La Cañada,61815.0,3,3.0,155.0,2.0
+Tegucigalpa,61815.0,4,2.0,80.0,1.0
+Tegucigalpa,61815.0,3,2.0,125.0,2.0
+Colonia Villa los Laureles,107146.0,3,2.0,130.0,2.0
+Barrio El Manchen,86541.0,3,1.0,150.0,2.0
+Tegucigalpa,82008.0,3,2.0,85.0,2.0
+Colonia Cerro Grande,30908.0,3,1.0,100.0,0.0
+Colonia Cerro Grande,37089.0,3,2.0,78.0,0.0
+El Hatillo,640000.0,4,3.0,900.0,0.0
+El Hatillo,255256.0,5,3.0,545.0,4.0
+Colonia Miraflores,123630.0,3,3.0,117.0,0.0
+Tegucigalpa,618150.0,4,3.0,850.0,5.0
+El Sauce,154538.0,3,4.0,230.0,0.0
+El Sauce,221504.0,3,3.0,213.0,0.0
+Residencial Altos del Trapiche,123630.0,3,3.0,150.0,0.0
+Residencial Las Hadas,151700.0,3,3.0,178.0,0.0
+Mirador Las Uvas,270000.0,4,4.0,444.0,2.0
+Colonia Ciudad Nueva,226000.0,3,3.0,437.0,0.0
+Colonia Lomas del Mayab,750000.0,3,3.0,450.0,3.0
+Boulevard Morazán,260000.0,3,2.0,234.0,5.0
+Colonia Lomas del Guijarro,342000.0,3,3.0,253.0,2.0
+Colonia Tres Caminos,200000.0,6,5.0,209.0,2.0
+Residencial Las Uvas,119509.0,3,3.0,131.0,0.0
+Lomas de Toncontin,82420.0,5,3.0,115.0,0.0
+Residencial Los Olivos,35441.0,2,1.0,50.0,0.0
+Colonia El Manantial,41004.0,2,1.0,60.0,0.0
+Colonia Centro América Oeste,32968.0,4,2.0,200.0,0.0
+Boulevard Suyapa,35029.0,3,1.0,69.0,0.0
+Colonia Lomas de Jacaleapa,49452.0,3,2.0,100.0,0.0
+Barrio San Cristóbal,32968.0,3,1.0,80.0,0.0
+Colonia Monseñor Fiallos,49035.0,3,3.0,70.0,1.0
+Anillo Periférico,51513.0,2,1.0,126.0,0.0
+"Residencial Los Girasoles 1, 2 y 3",76239.0,5,3.0,150.0,0.0
+Residencial Centro América Este,94783.0,5,4.0,280.0,0.0
+Colonia Villa Delmy,53573.0,3,2.0,90.0,0.0
+Residencial Prados Universitarios,57694.0,3,2.0,72.0,0.0
+Colonia Villa los Laureles,59755.0,3,2.0,98.0,0.0
+Colonia El Hato,55634.0,3,2.0,104.0,0.0
+Residencial Lomas de Nauvoo,74178.0,5,3.0,200.0,0.0
+Colonia Modelo,156598.0,3,2.0,511.0,0.0
+Distrito Central,107146.0,3,3.0,120.0,0.0
+Portal del Bosque,232837.0,4,4.0,200.0,0.0
+Barrio La Granja,165000.0,3,3.0,256.0,0.0
+Colonia El Hatillo,463613.0,3,4.0,387.0,0.0
+Villanueva,32968002.0,3,1.0,85.0,0.0
+Colonia Jardines de Loarque,148000.0,3,2.0,362.0,4.0
+Colonia Jardines de Loarque,131872.0,3,2.0,1010.0,0.0
+Residencial Las Hadas,154538.0,3,2.0,193.0,0.0
+Colonia Miramontes,216353.0,3,3.0,439.0,0.0
+Lomas de Toncontin,97874.0,3,3.0,140.0,0.0
+Colonia Los Robles,78299.0,3,2.0,300.0,0.0
+Colonia Lomas del Guijarro  Sur,334831.0,3,3.0,440.0,0.0
+Colonia Lomas del Guijarro  Sur,283319.0,3,4.0,240.0,0.0
+Colonia Lomas del Mayab,144235.0,2,2.0,160.0,0.0
+Villa Olimpica,61815.0,3,2.0,180.0,0.0
+Colonia Florencia Norte,334831.0,3,3.0,489.0,0.0
+Residencial Buena Vista,92723.0,3,3.0,175.0,0.0
+Residencial Monte Verde,172567.0,3,3.0,170.0,0.0
+Colonia Los Proceres,123630.0,3,3.0,120.0,0.0
+Colonia El Dorado,90662.0,3,2.0,170.0,0.0
+Tegucigalpa,240000.0,3,3.0,320.0,1.0
+Tegucigalpa,104032.0,3,2.0,121.0,2.0
+Colonia Villa Centroamericana,88602.0,3,2.0,121.0,0.0
+Tegucigalpa,109825.0,3,2.0,142.0,2.0
+Colonia Centroamérica 1 y 2,86541.0,3,3.0,240.0,0.0
+Anillo Periférico,88602.0,3,2.0,112.0,0.0
+Barrio Centro De Tegucigalpa,86541.0,3,3.0,120.0,0.0
+Las Casitas,78299.0,3,2.0,112.0,0.0
+Residencial San Ignacio,226655.0,3,2.0,240.0,0.0
+Residencial Las Casitas,72118.0,3,2.0,80.0,0.0
+Colonia Los Angeles,88602.0,3,3.0,192.0,0.0
+El Sauce,218413.0,3,4.0,185.0,0.0
+Colonia Río Grande Sur,109207.0,3,3.0,240.0,0.0
+Residencial Prados Universitarios,98904.0,3,3.0,118.0,0.0
+El Sauce,154538.0,3,3.0,165.0,0.0
+Colonia El Hatillo,360588.0,4,4.0,367.0,0.0
+Colonia San Miguel Arcangel,61815.0,3,2.0,109.0,0.0
+Colonia Río Grande Norte,71087.0,4,3.0,110.0,0.0
+Residencial Agua Dulce,199869.0,4,4.0,404.0,0.0
+Colonia Miraflores,115388.0,5,4.0,256.0,0.0
+Barrio Buenos Aires,103025.0,6,4.0,250.0,0.0
+Barrio Las Delicias,94783.0,4,3.0,359.0,0.0
+Roble Alto,103025.0,4,2.0,229.0,0.0
+Colonia Altos de Jardines de Loarque,144235.0,4,3.0,419.0,0.0
+Colonia Residencial Altos del Trapiche,118479.0,4,4.0,160.0,0.0
+Colonia Las Hadas,122806.0,4,3.0,200.0,0.0
+Colonia Tres Caminos,61815004.0,7,2.0,750.0,5.0
+Colonia Lomas del Guijarro,376041.0,3,4.0,450.0,0.0
+Colonia Lomas del Guijarro,463613.0,4,3.0,400.0,0.0
+Residencial Las Hadas,189566.0,4,3.0,317.0,3.0
+Residencial Las Hadas,293621.0,4,4.0,280.0,0.0
+Colonia Florencia Norte,144235.0,3,3.0,150.0,0.0
+Tegucigalpa,94783.0,6,4.0,250.0,1.0
+Residencial Palma Real,226655.0,5,4.0,543.0,0.0
+Río Grande Loarque,152477.0,4,4.0,205.0,0.0
+Tegucigalpa,267865.0,5,4.0,220.0,3.0
+Boulevard Morazán,239018.0,4,4.0,670.0,3.0
+Colonia Residencial Altos del Trapiche,144235.0,4,4.0,190.0,0.0
+Carretera a Danlí,535730.0,5,4.0,55904.0,0.0
+Colonia Aeropuerto,99889.0,2,2.0,109.0,0.0
+Colonia Humuya,215276.0,4,4.0,517.0,3.0
+Colonia Residencial Altos del Trapiche,381193.0,3,3.0,333.0,0.0
+Colonia Lara,230000.0,4,5.0,350.0,2.0
+Colonia Loma Verde,190596.0,3,3.0,220.0,0.0
+Residencial San Ignacio,205535.0,3,3.0,170.0,0.0
+Residencial San Ignacio,154538.0,3,3.0,145.0,0.0
+Tegucigalpa,360588.0,3,3.0,400.0,4.0
+Colonia Lomas del Guijarro,386344.0,3,4.0,440.0,0.0
+Colonia Tres Caminos,153507.0,3,2.0,110.0,0.0
+Colonia Miraflores Sur,152219.0,3,4.0,160.0,0.0
+Colonia Miraflores Sur,177203.0,3,3.0,400.0,0.0
+Tegucigalpa,144235.0,3,2.0,582.0,0.0
+Tegucigalpa,151718.0,3,2.0,152.0,0.0
+Tegucigalpa,161512.0,3,3.0,288.0,0.0
+Villas Corinto,113328.0,3,3.0,200.0,2.0
+Colonia Venecia,169991.0,3,4.0,280.0,0.0
+Distrito Central,164840.0,3,4.0,180.0,0.0
+Residencial Viera,144235.0,3,3.0,120.0,0.0
+Carretera Vieja del Norte,153507.0,3,4.0,232.0,0.0
+Tegucigalpa,290000.0,5,4.0,301.0,5.0
+Tegucigalpa,197808.0,4,3.0,314.0,2.0
+Tres Caminos,275000.0,3,3.5,366.0,2.0
+Lomas del Mayab,404695.0,3,2.5,518.0,6.0
+Tepeyac,976000.0,5,5.5,620.0,2.0
+Res. El Trapiche,260000.0,3,2.5,218.0,2.0
+Palma Real,270000.0,3,4.0,329.0,2.0
+Florencia Sur,400000.0,4,5.0,468.0,2.0
+La Granja,160000.0,3,2.0,282.0,2.0
+Villa Elena,465000.0,3,3.5,889.0,2.0
+Lomas del Guijarro,400000.0,5,4.5,625.0,4.0
+Anillo Periferico,188000.0,3,2.5,150.0,2.0
+Las Hadas,220000.0,3,2.5,178.0,2.0
+Tegucigalpa,72845.0,2,2.0,168.0,0.0
+Miraflores,210000.0,3,3.5,220.0,2.0
+Miraflores,193000.0,3,3.5,218.0,3.0
+Francisco Morazán,485000.0,4,3.5,364.0,4.0
+Loma Verde,385000.0,4,4.0,289.0,3.0
+Loma Verde,550000.0,4,4.5,510.0,3.0
+El Trapiche,400000.0,4,4.5,340.0,0.0
+San Ignacio,440000.0,4,4.5,346.0,3.0
+Viera,280000.0,4,3.5,400.0,4.0
+Santa Lucia,264000.0,7,7.5,1340.0,2.0
+Tres Caminos,395000.0,5,5.5,480.0,3.0
+Altos de Miramontes,450000.0,7,5.0,720.0,10.0
+Altos de la Granja,400000.0,3,3.5,611.0,2.0
+Lomas del Mayab,3000.0,4,4.5,450.0,4.0
+Lomas del Mayab,450000.0,3,2.5,527.0,3.0
+El Trapiche,430000.0,4,4.5,464.0,4.0
+Loma Linda,850000.0,5,5.0,890.0,0.0
+Loarque,426618.0,4,3.5,191.0,3.0
+Palmira,450000.0,5,3.0,591.0,2.0
+El Molino,345000.0,2,2.0,247.0,0.0
+Lomas del Guijarro Sur,892500.0,4,6.5,988.0,4.0
+Lomas del Guijarro,532000.0,5,5.0,448.0,8.0
+Siguatepeque,194500.0,2,3.0,145.0,0.0
+Barrio Guadalupe,303767.0,5,4.0,246.0,2.0
+La Hacienda,4500.0,4,4.0,700.0,4.0
+Lomas del Guijarro,600000.0,4,4.5,375.0,2.0
+El Hatillo,550000.0,3,3.5,560.0,4.0
+Lara,490000.0,5,4.5,579.0,3.0
+Valle de Angeles,253200.0,4,4.0,250.0,8.0
+El Hatillo,7000.0,4,5.5,400.0,8.0
+Lomas del Mayab,635000.0,4,4.0,456.0,0.0
+San Ignacio,930000.0,4,4.0,550.0,0.0
+Valle de Angeles,163000.0,2,2.0,92.0,0.0
+Valle de Angeles,1000000.0,3,3.5,540.0,2.0
+Godoy,190000.0,4,4.5,352.0,2.0
+Los Angeles,350000.0,4,4.0,340.0,0.0
+Distrito Central,150000.0,3,2.5,137.0,1.0
+Alameda,162010.0,3,2.5,220.0,6.0
+Tegucigalpa,210000.0,5,4.0,612.0,2.0
+Tegucigalpa,283500.0,3,3.5,345.0,8.0
+Residencial Plaza,158000.0,6,5.5,120.0,2.0
+Tepeyac,689000.0,5,4.5,390.0,4.0
+Tegucigalpa,365000.0,3,2.5,361.0,0.0
+Talanga,115000.0,4,5.0,363.0,0.0
+Miramontes,325000.0,4,2.5,310.0,2.0
+Lomas del Guijarro,720000.0,4,4.5,631.0,4.0
+Valle de Angeles,2500.0,3,4.5,400.0,3.0
+Altos de Miramontes,480000.0,4,5.0,571.0,4.0
+Las Uvas,275000.0,4,4.5,400.0,2.0
+La Hacienda,1200000.0,4,5.5,600.0,4.0
+Las Hadas,185000.0,3,3.5,130.0,1.0
+Las Hadas,235000.0,4,4.5,190.0,2.0
+15 de Septiembre,410000.0,4,2.5,359.0,3.0
+Santa Lucia,201000.0,3,3.5,997.0,2.0
+El Hatillo,700000.0,3,4.5,650.0,4.0
+Tepeyac,3300.0,5,4.5,670.0,5.0
+El Jícaro,35000.0,3,2.0,140.0,20.0
+San Ignacio,410000.0,3,3.5,392.0,2.0
+Lomas del Guijarro,420000.0,3,3.5,255.0,2.0
+15 de Septiembre,300000.0,5,3.5,400.0,4.0
+Distrito Central,2300.0,3,5.5,600.0,6.0
+Miramontes,700000.0,5,3.5,936.0,2.0
+El Hatillo,5000.0,4,6.5,1900.0,10.0
+Taulabé,200000.0,3,4.5,290.0,4.0
+El Hatillo,450000.0,6,4.5,590.0,6.0
+La Cumbre,250000.0,3,3.5,234.0,2.0
+Santa Lucia,240000.0,3,3.5,298.0,6.0
+Tegucigalpa,3500.0,3,3.5,450.0,3.0
+San Ignacio,330000.0,3,3.5,250.0,2.0
+San Carlos,285000.0,3,3.5,280.0,2.0
+San Ignacio,980.0,3,3.5,170.0,2.0
+El Molino,1250.0,4,4.5,510.0,3.0
+Lomas del Guijarro,295000.0,3,3.5,283.0,2.0
+San Ignacio,375000.0,4,3.5,375.0,3.0
+San Ignacio,1500000.0,4,4.5,810.0,4.0
+El Hatillo,450000.0,4,4.5,266.0,6.0
+La Cumbre,230000.0,3,2.5,230.0,2.0
+Valle de Angeles,2000.0,3,3.0,410.0,10.0
+Lomas del Guijarro,365000.0,3,3.5,450.0,0.0
+Lomas del Mayab,420000.0,3,3.5,311.0,4.0
+El Hatillo,550000.0,4,4.5,564.0,15.0
+El Country,180000.0,4,4.5,352.0,2.0
+El Chimbo,325000.0,3,2.5,1178.0,4.0
+Tegucigalpa,972055.0,4,4.5,1235.0,15.0
+Florencia Sur,550000.0,4,4.5,400.0,2.0
+San Ignacio,1155000.0,4,4.5,500.0,7.0
+Altos de Miraflores,950.0,3,3.5,290.0,2.0
+Florencia Norte,495000.0,4,4.5,450.0,4.0
+El Hatillo,550000.0,4,4.5,648.0,10.0
+Palmeras de San Ignacio,520000.0,3,3.5,391.0,0.0
+El Hatillo,600000.0,3,2.5,527.0,4.0
+Loma Linda,480000.0,3,3.5,600.0,0.0
+Loma Linda Norte,360000.0,3,3.5,470.0,3.0
+El Hatillo,558500.0,3,4.5,602.0,10.0
+Castaños Sur,2000.0,15,4.0,450.0,10.0
+Danlí,875000.0,3,3.5,500.0,0.0
+Valle de Angeles,342779.0,3,2.5,220.0,5.0
+El Hatillo,450000.0,3,3.5,475.0,5.0
+Las Lomas del Guijarro,750000.0,3,3.5,410.0,2.0
+Lomas del Guijarro,650000.0,4,4.5,875.0,4.0
+Las Casitas,570000.0,3,3.5,400.0,6.0
+Las Lomas del Guijarro,900000.0,4,3.5,400.0,2.0
+Lomas del Guijarro,2300000.0,3,3.5,400.0,4.0
+El Trapiche,850000.0,5,6.0,600.0,6.0
+Lomas del Guijarro Sur,450000.0,3,3.5,290.0,3.0
+El Chimbo,450000.0,4,3.5,600.0,0.0
+Lomas de Miraflores Sur,850000.0,4,4.5,400.0,0.0
+Roatán,450000.0,4,2.5,221.0,0.0
+Lomas del Guijarro,375000.0,3,2.5,440.0,2.0
+El Hatillo,345000.0,4,4.5,500.0,5.0
+Castaños Sur,288000.0,3,2.0,269.0,3.0
+Cerro Azul,395000.0,3,3.5,289.0,4.0
+Lomas del Mayab,635000.0,4,4.5,456.0,2.0
+Florencia Norte,600000.0,4,5.0,526.0,4.0
+Tegucigalpa,115500.0,3,2.5,105.0,1.0
+Lomas del Guijarro,500000.0,4,4.5,300.0,4.0
+Palmeras de San Ignacio,680000.0,4,4.0,550.0,4.0
+Las Minitas,325000.0,3,2.0,222.0,5.0
+Lomas del Guijarro,892500.0,4,5.5,980.0,4.0
+Villas del Real,78000.0,3,2.5,108.0,2.0
+Agua Dulce,192370.0,3,2.5,120.0,2.0
+Agua Dulce,201955.0,3,2.5,141.0,2.0
+Agua Dulce,218512.0,3,2.5,159.0,2.0
+Las Hadas,170000.0,3,2.5,223.0,2.0
+Castaños Sur,300000.0,3,3.5,300.0,2.0
+Kennedy,137000.0,4,2.0,250.0,1.0
+Florencia Sur,397000.0,3,2.5,277.0,3.0
+Modelo,160000.0,4,3.0,220.0,2.0
+Miramontes,208000.0,3,2.0,250.0,2.0
+Tres Caminos,606585.0,3,2.5,404.0,3.0
+El Hatillo,320000.0,4,3.5,390.0,6.0
+Santa Lucia,275000.0,4,4.5,423.0,0.0
+San Ignacio,350000.0,4,3.0,275.0,0.0
+San Ignacio,1200000.0,3,3.5,783.0,4.0
+Lomas del Guijarro,650000.0,5,5.5,604.0,0.0
+La Reforma,430000.0,4,4.0,338.0,4.0
+Lomas del Mayab,3000.0,4,3.5,600.0,4.0
+Tres Caminos,495000.0,5,3.5,720.0,8.0
+Ruben Dario,450000.0,4,4.5,480.0,0.0
+El Anillo Periferico,124000.0,3,2.5,107.0,2.0
+Tepeyac,800000.0,3,5.0,600.0,0.0
+Lomas del Mayab,550000.0,5,5.5,418.0,4.0
+Palmira,499000.0,3,2.5,483.0,2.0
+El Chimbo,245000.0,3,1.5,290.0,4.0
+El Chimbo,82000.0,2,1.0,70.0,2.0
+Los Almendros,300000.0,3,2.0,200.0,1.0
+Villa Vieja,125000.0,3,2.5,155.0,0.0
+Guanacaste,113499.0,5,4.0,300.0,1.0
+El Hatillo,630000.0,3,3.5,550.0,6.0
+Roble Oeste,164000.0,3,3.0,161.0,2.0
+Loma Alta,475000.0,4,4.5,375.0,2.0
+Florencia Norte,600000.0,3,3.5,400.0,0.0
+Los Angeles,600000.0,3,3.5,620.0,2.0
+Las Hadas,386000.0,3,2.0,420.0,2.0
+Las Tres Rosas,320000.0,3,2.5,190.0,0.0
+Loma Linda Norte,750000.0,5,5.5,603.0,0.0
+Miramontes,190000.0,3,2.5,232.0,2.0
+La Granja,185000.0,4,2.5,239.0,0.0
+San Ignacio,850000.0,3,4.5,650.0,5.0
+Lomas del Guijarro,4000.0,4,5.5,630.0,8.0
+Las Colinas,135000.0,5,3.0,220.0,1.0
+Las Torres,330000.0,3,3.5,300.0,5.0
+Lomas del Guijarro,210000.0,3,1.5,188.0,1.0
+Altos de Miramontes,365000.0,3,3.5,358.0,4.0
+El Hatillo,300000.0,2,2.5,280.0,0.0
+La Cumbre,649087.0,4,3.5,585.0,2.0
+Lomas del Guijarro,395000.0,4,3.5,625.0,4.0
+Miralago,310000.0,3,3.5,250.0,3.0
+Altos de Miramontes,275000.0,5,5.5,311.0,0.0
+Las Hadas,260000.0,5,4.5,356.0,3.0
+Loma Verde,590000.0,4,4.5,418.0,2.0
+Maradiaga,330000.0,3,2.5,659.0,2.0
+Barrio Guadalupe,310500.0,3,3.0,210.0,0.0
+Los Angeles,450000.0,4,4.0,510.0,5.0
+Loma Linda Norte,500000.0,4,4.5,350.0,4.0
+Lomas del Mayab,420000.0,3,2.5,399.0,3.0
+Lomas del Country,180000.0,4,4.5,352.0,1.0
+Las Hadas,200000.0,3,2.5,220.0,3.0
+San Ignacio,973000.0,3,3.5,793.0,4.0
+Villa Elena,455000.0,3,3.5,516.0,1.0
+El Hatillo,390000.0,4,3.5,437.0,0.0
+Altos de Miramontes,480000.0,4,4.5,468.0,4.0
+La Reforma,280000.0,5,3.5,489.0,0.0
+Modelo,240000.0,3,2.5,305.0,0.0
+San Matias,375000.0,4,4.5,580.0,10.0
+San Ignacio,1450000.0,4,5.0,770.0,4.0
+El Hatillo,1200000.0,6,6.5,1000.0,6.0
+Viera,2500000.0,5,6.0,1118.0,6.0
+El Hatillo,580000.0,4,3.5,788.0,6.0
+Parcaltagua,1200000.0,2,2.5,500.0,1.0
+Avenida La Paz,750000.0,3,3.5,591.0,4.0
+Lomas del Guijarro,450000.0,3,3.0,525.0,0.0
+El Hatillo,600000.0,4,4.5,1047.0,8.0
+Lomas del Guijarro,600000.0,4,4.5,490.0,4.0
+Castaños Sur,310000.0,4,3.5,290.0,2.0
+Lomas del Guijarro,392000.0,3,3.5,305.0,2.0
+Lara Norte,300000.0,2,2.5,651.0,2.0
+Altos de Miramontes,370000.0,3,3.5,450.0,4.0
+Lomas de Miraflores,640000.0,3,3.5,450.0,3.0
+Los Angeles,350000.0,4,4.5,660.0,0.0
+Las Hadas,240000.0,4,4.5,300.0,3.0
+Las Tres Rosas,131926.0,3,2.0,2023.0,2.0
+Las Tres Rosas,143627.0,3,2.5,2023.0,2.0
+Las Tres Rosas,118560.0,3,1.5,2023.0,2.0
+Santa Lucía,500000.0,3,3.5,635.0,10.0
+Valle de Angeles,800000.0,7,6.0,550.0,8.0
+Valle de Angeles,525500.0,3,3.0,429.0,1.0
+San Juan,48500.0,2,1.0,60.0,2.0
+El Pedregal,700000.0,5,6.0,900.0,3.0
+Valle de Angeles,1091000.0,3,5.5,539.0,0.0
+Las Tres Rosas,654000.0,4,4.0,1128.0,6.0
+El Recreo,75000.0,3,2.0,79.0,2.0
+Valle de Angeles,42700.0,4,3.0,260.0,1.0
+Res. Honduras Shore Plantations,380000.0,4,3.5,540.0,4.0
+La Loma,315000.0,3,2.5,400.0,13.0
+Zambrano,850000.0,6,6.5,640.0,6.0
+Omoa,300000.0,4,3.0,400.0,3.0
+Solpinar,1245000.0,3,3.5,809.0,4.0
+Valle de Angeles,252267.0,3,2.0,195.0,2.0
+Santa Lucía,270000.0,4,4.0,375.0,0.0
+Residencial Siboney,800000.0,5,5.5,945.0,4.0
+El Molino,990000.0,4,5.5,333.0,0.0
+La Ensenada,370000.0,4,3.0,300.0,2.0
+Los Encinos,120358.0,2,2.0,196.0,0.0
+Valle de Angeles,315000.0,5,3.0,949.0,10.0

@@ -1,0 +1,116 @@
+usd_price,location,surface_m²,bedrooms,parking,bathrooms
+288000.0,Castaños Sur,269.0,3,3.0,2.0
+395000.0,Cerro Azul,289.0,3,4.0,3.5
+635000.0,Lomas del Mayab,456.0,4,2.0,4.5
+600000.0,Florencia Norte,526.0,4,4.0,5.0
+115500.0,Tegucigalpa,105.0,3,1.0,2.5
+500000.0,Lomas del Guijarro,300.0,4,4.0,4.5
+680000.0,Palmeras de San Ignacio,550.0,4,4.0,4.0
+325000.0,Las Minitas,222.0,3,5.0,2.0
+892500.0,Lomas del Guijarro,980.0,4,4.0,5.5
+78000.0,Villas del Real,108.0,3,2.0,2.5
+192370.0,Agua Dulce,120.0,3,2.0,2.5
+201955.0,Agua Dulce,141.0,3,2.0,2.5
+218512.0,Agua Dulce,159.0,3,2.0,2.5
+170000.0,Las Hadas,223.0,3,2.0,2.5
+300000.0,Castaños Sur,300.0,3,2.0,3.5
+137000.0,Kennedy,250.0,4,1.0,2.0
+397000.0,Florencia Sur,277.0,3,3.0,2.5
+160000.0,Modelo,220.0,4,2.0,3.0
+208000.0,Miramontes,250.0,3,2.0,2.0
+606585.0,Tres Caminos,404.0,3,3.0,2.5
+320000.0,El Hatillo,390.0,4,6.0,3.5
+275000.0,Santa Lucia,423.0,4,0.0,4.5
+350000.0,San Ignacio,275.0,4,0.0,3.0
+1200000.0,San Ignacio,783.0,3,4.0,3.5
+650000.0,Lomas del Guijarro,604.0,5,0.0,5.5
+430000.0,La Reforma,338.0,4,4.0,4.0
+3000.0,Lomas del Mayab,600.0,4,4.0,3.5
+495000.0,Tres Caminos,720.0,5,8.0,3.5
+450000.0,Ruben Dario,480.0,4,0.0,4.5
+124000.0,El Anillo Periferico,107.0,3,2.0,2.5
+800000.0,Tepeyac,600.0,3,0.0,5.0
+550000.0,Lomas del Mayab,418.0,5,4.0,5.5
+499000.0,Palmira,483.0,3,2.0,2.5
+245000.0,El Chimbo,290.0,3,4.0,1.5
+82000.0,El Chimbo,70.0,2,2.0,1.0
+300000.0,Los Almendros,200.0,3,1.0,2.0
+125000.0,Villa Vieja,155.0,3,0.0,2.5
+113499.0,Guanacaste,300.0,5,1.0,4.0
+630000.0,El Hatillo,550.0,3,6.0,3.5
+164000.0,Roble Oeste,161.0,3,2.0,3.0
+475000.0,Loma Alta,375.0,4,2.0,4.5
+600000.0,Florencia Norte,400.0,3,0.0,3.5
+600000.0,Los Angeles,620.0,3,2.0,3.5
+386000.0,Las Hadas,420.0,3,2.0,2.0
+320000.0,Las Tres Rosas,190.0,3,0.0,2.5
+750000.0,Loma Linda Norte,603.0,5,0.0,5.5
+190000.0,Miramontes,232.0,3,2.0,2.5
+185000.0,La Granja,239.0,4,0.0,2.5
+850000.0,San Ignacio,650.0,3,5.0,4.5
+4000.0,Lomas del Guijarro,630.0,4,8.0,5.5
+135000.0,Las Colinas,220.0,5,1.0,3.0
+330000.0,Las Torres,300.0,3,5.0,3.5
+210000.0,Lomas del Guijarro,188.0,3,1.0,1.5
+365000.0,Altos de Miramontes,358.0,3,4.0,3.5
+300000.0,El Hatillo,280.0,2,0.0,2.5
+649087.0,La Cumbre,585.0,4,2.0,3.5
+395000.0,Lomas del Guijarro,625.0,4,4.0,3.5
+310000.0,Miralago,250.0,3,3.0,3.5
+275000.0,Altos de Miramontes,311.0,5,0.0,5.5
+260000.0,Las Hadas,356.0,5,3.0,4.5
+590000.0,Loma Verde,418.0,4,2.0,4.5
+330000.0,Maradiaga,659.0,3,2.0,2.5
+310500.0,Barrio Guadalupe,210.0,3,0.0,3.0
+450000.0,Los Angeles,510.0,4,5.0,4.0
+500000.0,Loma Linda Norte,350.0,4,4.0,4.5
+420000.0,Lomas del Mayab,399.0,3,3.0,2.5
+180000.0,Lomas del Country,352.0,4,1.0,4.5
+200000.0,Las Hadas,220.0,3,3.0,2.5
+973000.0,San Ignacio,793.0,3,4.0,3.5
+455000.0,Villa Elena,516.0,3,1.0,3.5
+390000.0,El Hatillo,437.0,4,0.0,3.5
+480000.0,Altos de Miramontes,468.0,4,4.0,4.5
+280000.0,La Reforma,489.0,5,0.0,3.5
+240000.0,Modelo,305.0,3,0.0,2.5
+375000.0,San Matias,580.0,4,10.0,4.5
+1450000.0,San Ignacio,770.0,4,4.0,5.0
+1200000.0,El Hatillo,1000.0,6,6.0,6.5
+2500000.0,Viera,1118.0,5,6.0,6.0
+580000.0,El Hatillo,788.0,4,6.0,3.5
+1200000.0,Parcaltagua,500.0,2,1.0,2.5
+750000.0,Avenida La Paz,591.0,3,4.0,3.5
+450000.0,Lomas del Guijarro,525.0,3,0.0,3.0
+600000.0,El Hatillo,1047.0,4,8.0,4.5
+600000.0,Lomas del Guijarro,490.0,4,4.0,4.5
+310000.0,Castaños Sur,290.0,4,2.0,3.5
+392000.0,Lomas del Guijarro,305.0,3,2.0,3.5
+300000.0,Lara Norte,651.0,2,2.0,2.5
+370000.0,Altos de Miramontes,450.0,3,4.0,3.5
+640000.0,Lomas de Miraflores,450.0,3,3.0,3.5
+350000.0,Los Angeles,660.0,4,0.0,4.5
+240000.0,Las Hadas,300.0,4,3.0,4.5
+131926.0,Las Tres Rosas,2023.0,3,2.0,2.0
+143627.0,Las Tres Rosas,2023.0,3,2.0,2.5
+118560.0,Las Tres Rosas,2023.0,3,2.0,1.5
+500000.0,Santa Lucía,635.0,3,10.0,3.5
+800000.0,Valle de Angeles,550.0,7,8.0,6.0
+525500.0,Valle de Angeles,429.0,3,1.0,3.0
+48500.0,San Juan,60.0,2,2.0,1.0
+700000.0,El Pedregal,900.0,5,3.0,6.0
+1091000.0,Valle de Angeles,539.0,3,0.0,5.5
+654000.0,Las Tres Rosas,1128.0,4,6.0,4.0
+75000.0,El Recreo,79.0,3,2.0,2.0
+42700.0,Valle de Angeles,260.0,4,1.0,3.0
+380000.0,Res. Honduras Shore Plantations,540.0,4,4.0,3.5
+315000.0,La Loma,400.0,3,13.0,2.5
+850000.0,Zambrano,640.0,6,6.0,6.5
+300000.0,Omoa,400.0,4,3.0,3.0
+1245000.0,Solpinar,809.0,3,4.0,3.5
+252267.0,Valle de Angeles,195.0,3,2.0,2.0
+270000.0,Santa Lucía,375.0,4,0.0,4.0
+800000.0,Residencial Siboney,945.0,5,4.0,5.5
+990000.0,El Molino,333.0,4,0.0,5.5
+370000.0,La Ensenada,300.0,4,2.0,3.0
+120358.0,Los Encinos,196.0,2,0.0,2.0
+315000.0,Valle de Angeles,949.0,5,10.0,3.0
