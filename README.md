@@ -28,19 +28,15 @@ The transformed data is saved as CSV files in the `housing3` folder. The CSV fil
 
 ## Visualization with Power BI
 
-The processed data can be visualized in a Power BI dashboard. You can use the provided Power BI file to view and analyze the real estate trends in Tegucigalpa.
+The processed data can be visualized in a Power BI dashboard. You can click the following link to see it: [Link text Here]([https://link-url-here.org](https://app.powerbi.com/view?r=eyJrIjoiZmU2MTM5OTktMjYxOS00MDM3LWI5YTEtNTI2YTU1YjA5ODUzIiwidCI6IjgwZjQ1ODhmLTllY2EtNGRjZC1hMzQwLTgyMDFmYWEzNTAyMCIsImMiOjl9))
 
 ## Contributing
 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any further questions or inquiries, please reach out via [email](mailto:your-email@example.com).
+For any further questions or inquiries, please reach out via [email](mailto:ary.rubi@hotmail.com).
 
 ---
 
